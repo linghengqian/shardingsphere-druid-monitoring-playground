@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: filter-testd
+  threads:
+    virtual:
+      enabled: true
